@@ -71,7 +71,7 @@
         font-size: 3rem;
         text-transform: uppercase;
         background-color: #434d55b0;
-        padding: 1rem;
+        padding: 1.5rem;
         color: #eddfdf;
         border: 1px solid #7b8ea0b0;
         transition: all 1s ease-in-out;
@@ -114,7 +114,7 @@
         font-size: 3rem;
         text-transform: uppercase;
         background-color: #424d3bb6;
-        padding: 1rem;
+        padding: 1.5rem;
         color: #b1c2a9;
         border: 1px solid #424d3b;
         transition: all 1s ease-in-out;
