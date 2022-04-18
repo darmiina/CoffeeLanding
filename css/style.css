@@ -15,7 +15,7 @@
         background-image: url('../img/img6.jpeg');
         background-size: cover;
         background-position: center;
-        height: 600px;
+        height: 700px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -39,7 +39,7 @@
     }
 
     .intro-text {
-        height: 250px;
+        height: 300px;
         background-color: #a9a78ef8;
         color: #473023;
         display: flex;
@@ -49,7 +49,7 @@
     }
 
     .intro-text__textbox h3 {
-        font-size: 2.2rem;
+        font-size: 2.5rem;
         text-transform: uppercase;
         margin-bottom: 1rem;
     }
@@ -58,7 +58,7 @@
         background-image: url('../img/img9.jpeg');
         background-size: cover;
         background-position: center;
-        height: 500px;
+        height: 650px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -82,7 +82,7 @@
     }
 
     .quality-text {
-        height: 250px;
+        height: 300px;
         background-color: #a9a78ef8;
         color: #57210d;
         display: flex;
@@ -92,7 +92,7 @@
     }
 
     .quality-text__textbox h3 {
-        font-size: 2.2rem;
+        font-size: 2.5rem;
         text-transform: uppercase;
         margin-bottom: 1rem;
     }
@@ -101,7 +101,7 @@
         background-image: url('../img/img10.jpeg');
         background-size: cover;
         background-position: center;
-        height: 400px;
+        height: 650px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -125,7 +125,7 @@
     }
 
     .Origin-text {
-        height: 250px;
+        height: 300px;
         background-color: #a9a78ef8;
         color: #19330e;
         display: flex;
@@ -135,7 +135,7 @@
     }
 
     .Origin-text__textbox h3 {
-        font-size: 2.2rem;
+        font-size: 2.5rem;
         text-transform: uppercase;
         margin-bottom: 1rem;
     }
